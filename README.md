@@ -1,28 +1,49 @@
-<h1>Hi, I'm Adrian! <br/><a href="https://www.linkedin.com/in/adrian-l-ruiz/">Cybersecurity Student</a></h1>
+# 👋 Hi, I'm Adrian Ruiz
 
-<h2>🔐 IT/Cybersecurity Projects:</h2>
+🎓 **Cybersecurity Graduate | Florida International University**  
+🔐 Passionate about digital forensics, SOC operations, and threat detection  
+🌱 Always learning and practicing through hands-on labs and real-world tools  
 
-- [Active Directory Home Lab](https://github.com/ruizchavezadrian/ActiveDirectoryLab)
+## 🧰 Toolbox
 
-<h2>👨‍💻 Software/Web Development Projects:</h2>
+**Languages & Scripting**  
+Python • Bash • PowerShell • C • C++
 
-<!--  <b>📒 School Homework:</b>  -->
+**Security & Forensics Tools**  
+Splunk • ELK Stack • Autopsy • Volatility • FTK Imager • CyberArk • CrowdStrike • Tanium • TheHive
 
-<!--  <h3>📒 School Homework:</h3>  -->
+**Security Concepts**  
+MITRE ATT&CK • Cyber Kill Chain • YARA • IDS/IPS • IAM • SIEM • Incident Response • Endpoint Security
 
-<h2>📄 Certifications:</h2>
+## 🧪 Projects
 
-- [CompTIA A+](https://CERT-URL)
+### 🧠 TryHackMe – SOC Analyst Simulation  
+Simulated real-world incident response in a SOC environment. Analyzed logs, detected threats, and responded to attacks using SIEM and EDR tools.  
+🔗 [TryHackMe Profile](https://tryhackme.com/p/forbiddenAccess)
 
-<h2> 🤳 Connect with me:</h2>
+### 🔍 Digital Forensics Labs – Jones & Bartlett Cloud Labs  
+Conducted forensic investigations on memory dumps, deleted files, and network logs. Used tools like Autopsy, Volatility, and FTK Imager. Applied legal standards for admissibility of evidence.
 
-<!--[<img align="left" alt="ruizchavezadrian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
-[<img align="left" alt="ruizchavezadrian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ruizchavezadrian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### ☁️ SecureHeaven – FIU Spring 2024 Senior Design Project  
+Co-developed a **data lakehouse** system for managing large-scale structured and unstructured data. Contributed to system architecture, data flow design, and integration of on-prem and cloud-based components. Gained exposure to data governance principles and modern data engineering tools.
 
-<!--[twitter]: https://twitter.com/-->
-[instagram]: https://www.instagram.com/ruizchavezadrian/
-[linkedin]: https://linkedin.com/in/adrian-l-ruiz
+[View Project](https://github.com/ruizchavezadrian/Data-Lakehouse)
+
+## 📜 Certifications
+
+- [CompTIA Security+](https://www.credly.com/badges/e893d97f-b4ed-42ff-b6ef-8f2e01079074/linked_in_profile)  
+- [TryHackMe: SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OXYQHI0LPX.pdf)  
+- [TryHackMe: Cyber Defense](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HLDVO6KZZ3.pdf)
+
+## 🌐 Connect With Me
+
+[<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/adrian-l-ruiz)
+&nbsp;
+[<img align="center" alt="TryHackMe" width="22px" src="https://tryhackme.com/img/favicon.png" />](https://tryhackme.com/p/forbiddenAccess)
+
+---
+
+🔒 *"Securing systems, one layer at a time."*
 
 <!--
 **ruizchavezadrian/ruizchavezadrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
