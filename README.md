@@ -34,6 +34,7 @@ Co-developed a **data lakehouse** system for managing large-scale structured and
 - [CompTIA Security+](https://www.credly.com/badges/e893d97f-b4ed-42ff-b6ef-8f2e01079074/linked_in_profile)  
 - [TryHackMe: SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OXYQHI0LPX.pdf)  
 - [TryHackMe: Cyber Defense](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HLDVO6KZZ3.pdf)
+- [CompTIA A+](https://www.credly.com/badges/2f709ff2-2760-42ff-8948-8244f3b23d8d/linked_in_profile)
 
 ## 🌐 Connect With Me
 
